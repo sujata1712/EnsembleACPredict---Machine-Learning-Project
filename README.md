@@ -24,7 +24,7 @@ Key contributions:
 
 ## Dataset
 
-* **Source**: ENNAACT Anticancer Peptide dataset
+* **Source**: ENNAACT Anticancer and Non-Anticancer Peptide dataset
 * **Classes**:
 
   * `1` → Anticancer Peptides (ACPs)
