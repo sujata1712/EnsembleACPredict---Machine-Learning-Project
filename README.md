@@ -117,5 +117,5 @@ These features are biologically significant, consistent with ACPs’ membrane-ta
 ## 👩‍💻 Author
 
 **Sujata Sinhababu**
-B.Tech CSE, 4th Year | Mallabhum Institute of Technology (MAKAUT)
+B.Tech CSE, 4th Year 
 Summer Internship, NIT Agartala (2025)
